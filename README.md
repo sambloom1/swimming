@@ -1,2 +1,6 @@
 # swimming
-A look at swimmers times for various veents throughout history. Some analysis and modelling or random feautres that would be nice to explore.
+A look at swimming times for various events throughout history. 
+
+Some analysis and modelling or features of github that would be nice to explore.
+
+
